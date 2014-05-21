@@ -1,23 +1,4 @@
 <?PHP
-/* FILE:	search.config.php
- * DESC:	sets domain values that influence search results
- * 
- * MLS PROVIDER: Brevard MLS - brevardmls.com
- * 
- * OWNER:	FENCLWEBDESIGN.COM
- * 
- * Original code by:		Chris Vanzo
- * contributors:
- * 
- * DETAILED NOTES:
- * - all configish files pertaining to the actual search, we got requireds below
- * - this is the beginning of hopefully something better when it comes to required field checks, this is very basic
- * 
- * DATA DEFINED IN THIS DOCUMENT:
- * - required search fields per search type
- * - property types included in search related to what is in the DB
- * - range limits for price range, 
- */
 
 $required_array = array();
 
