@@ -12,8 +12,8 @@ class PDOConfig extends PDO {
 
     // DB CONFIG
     $dbhost = 'localhost';
-    $dbuser = 'jjcretsuser2';
-    $dbpass = '77work77!';
+    $dbuser = '';
+    $dbpass = '';
     $dbname = 'jjcRets';
 
     $this->engine = 'mysql';
