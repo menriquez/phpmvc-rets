@@ -13,7 +13,7 @@ The view dir of course creates the views, but also uses loop views that allow da
 
 It all ends up working quite well in a pratical manner...although I understand there is lots of room for improvement.
 
-Please [click here](http://dbasile.com) or [here](http://soldhart.com) to see this design work in the wild.
+Please [click here](http://dbasile.com) or [here](http://jackjeffcoat.com) to see this design work in the wild.
 
 Thanks,
 - mark
